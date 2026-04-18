@@ -1,0 +1,9 @@
+{
+  "spinnerTipsEnabled": false,
+  "prefersReducedMotion": false,
+  "permissions": {
+    "allow": [
+      "Bash(pnpm lint:*)"
+    ]
+  }
+}

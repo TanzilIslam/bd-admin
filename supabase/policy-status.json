@@ -1,0 +1,82 @@
+[
+  {
+    "tablename": "bd-business-categories",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-business-facilities",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-business-features",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-business-hours",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-business-media",
+    "rowsecurity": false
+  },
+  {
+    "tablename": "bd-business-payment-methods",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-business-services",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-business-subcategories",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-business-tags",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-businesses",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-countries",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-districts",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-divisions",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-facilities",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-features",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-payment-methods",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-services",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-tags",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-upazilas",
+    "rowsecurity": true
+  },
+  {
+    "tablename": "bd-users",
+    "rowsecurity": true
+  }
+]
