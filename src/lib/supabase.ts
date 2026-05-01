@@ -66,6 +66,9 @@ export const instance = {
   businessMedia: {
     tableName: `${tablePrefix}business-media`,
   },
+  priceRanges: {
+    tableName: `${tablePrefix}price-ranges`,
+  },
   users: {
     tableName: `${tablePrefix}users`,
   },

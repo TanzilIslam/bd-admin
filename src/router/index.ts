@@ -143,6 +143,11 @@ const router = createRouter({
               name: 'settings-locations',
               component: () => import('@/views/dashboard/settings/LocationsView.vue'),
             },
+            {
+              path: 'price-ranges',
+              name: 'settings-price-ranges',
+              component: () => import('@/views/dashboard/settings/PriceRangesView.vue'),
+            },
           ],
         },
       ],

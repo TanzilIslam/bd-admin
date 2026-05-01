@@ -14,6 +14,7 @@ import {
   Hash,
   Globe,
   Star,
+  DollarSign,
 } from 'lucide-vue-next'
 import { ref } from 'vue'
 import { useRouter } from 'vue-router'
@@ -74,6 +75,7 @@ const settingsItems = [
   { label: 'Features', icon: Star, to: '/dashboard/settings/features' },
   { label: 'Tags', icon: Hash, to: '/dashboard/settings/tags' },
   { label: 'Locations', icon: Globe, to: '/dashboard/settings/locations' },
+  { label: 'Price Ranges', icon: DollarSign, to: '/dashboard/settings/price-ranges' },
 ]
 </script>
 

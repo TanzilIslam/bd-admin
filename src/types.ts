@@ -109,6 +109,10 @@ export interface Tag extends BaseEntity {
   name: string
 }
 
+export interface PriceRangeItem extends BaseEntity {
+  name: string
+}
+
 /* =========================================================
    BUSINESS
 ========================================================= */
